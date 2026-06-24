@@ -1,0 +1,11 @@
+EVALUATION SUMMARY
+
+Task | Planner | Researcher | Writer | Total retries | Tool called
+--------------------------------------------------------------------------------
+Write a report on the causes and effects of climate change | 9 | 9 | 9 | 0 | Y
+Explain the pros and cons of nuclear energy | 9 | 9 | 8 | 0 | N
+Summarize the economic impact of COVID-19 | 9 | 9 | 9 | 0 | Y
+Describe the history and future of artificial intelligence | 9 | 8 | 9 | 1 | Y
+Analyze the causes of World War I | 9 | 9 | 9 | 0 | N
+
+Per-task details are saved in eval_results.json
